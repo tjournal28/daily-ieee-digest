@@ -3,8 +3,8 @@ name: Daily IEEE Digest
 
 on:
   schedule:
-    # 00:28 Beijing time (UTC+8)
-    - cron: "28 16 * * *"
+    # 00:42 Beijing time (UTC+8)
+    - cron: "42 16 * * *"
   workflow_dispatch:
 
 jobs:
