@@ -1,0 +1,90 @@
+{
+  "journals": [
+    {
+      "key": "TWC",
+      "title": "IEEE Transactions on Wireless Communications",
+      "issn": "1536-1276",
+      "eissn": "1558-2248",
+      "preferred": true,
+      "metrics": {
+        "system": "JCR-JIF",
+        "year": 2024,
+        "impact_factor": "8.9",
+        "quartile": "Q1",
+        "source": "IEEE Title List August 2024",
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-August-2024.pdf"
+      }
+    },
+    {
+      "key": "TAP",
+      "title": "IEEE Transactions on Antennas and Propagation",
+      "issn": "0018-926X",
+      "eissn": "1558-2221",
+      "preferred": true,
+      "metrics": {
+        "system": "JCR-JIF",
+        "year": 2024,
+        "impact_factor": "5.8",
+        "quartile": "Q1",
+        "source": "IIT journal record",
+        "source_url": "https://www.iit.comillas.edu/publicacion/info_revista/en/395/IEEE_Transactions_on_Antennas_and_Propagation"
+      }
+    },
+    {
+      "key": "TMTT",
+      "title": "IEEE Transactions on Microwave Theory and Techniques",
+      "issn": "0018-9480",
+      "eissn": "1557-9670",
+      "preferred": true,
+      "metrics": {
+        "system": "JCR-JIF",
+        "year": 2024,
+        "impact_factor": "4.5",
+        "quartile": "Q2",
+        "source": "IIT journal record",
+        "source_url": "https://www.iit.comillas.edu/publicacion/info_revista/en/404/IEEE_Transactions_on_Microwave_Theory_and_Techniques"
+      }
+    }
+  ],
+  "include_keywords": [
+    "antenna",
+    "array",
+    "beamforming",
+    "channel",
+    "communication",
+    "communications",
+    "c-v2x",
+    "electromagnetic",
+    "isac",
+    "iot",
+    "mimo",
+    "microwave",
+    "millimeter-wave",
+    "mmwave",
+    "network",
+    "propagation",
+    "radar",
+    "radio",
+    "reconfigurable intelligent surface",
+    "rf",
+    "sensing",
+    "signal",
+    "swipt",
+    "terahertz",
+    "wireless"
+  ],
+  "exclude_keywords": [
+    "bio",
+    "biochemical",
+    "chemical",
+    "chemistry",
+    "fabrication of material",
+    "graphene",
+    "material characterization",
+    "materials",
+    "metamaterial absorber",
+    "polymer",
+    "semiconductor material",
+    "thin film"
+  ]
+}

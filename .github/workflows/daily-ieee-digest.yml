@@ -1,0 +1,33 @@
+name: Daily IEEE Digest
+
+on:
+  schedule:
+    # 08:00 Beijing time (UTC+8)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send daily digest
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          DIGEST_DAYS_BACK: "1095"
+          DIGEST_MAX_ARTICLES: "2"
+        run: python scripts/daily_ieee_digest.py --config config/journals.json --send
