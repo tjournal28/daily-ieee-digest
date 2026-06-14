@@ -69,6 +69,20 @@
       "title": "A Novel Nonuniformly Spaced Heterogeneous Subarrayed Array for 5G Wireless Communication",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3676538"
+    },
+    {
+      "date": "2026-06-14",
+      "doi": "10.1109/tmtt.2026.3678366",
+      "title": "An E-Band Radar Transceiver With Daisy-Chained Wireless Chirp Synchronization for Scalable Multistatic Radar Networks",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3678366"
+    },
+    {
+      "date": "2026-06-14",
+      "doi": "10.1109/tmtt.2026.3682185",
+      "title": "Secure Wireless Communication Using Distributed Coherent Transmission and Spatial Signal Decomposition",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3682185"
     }
   ]
 }
