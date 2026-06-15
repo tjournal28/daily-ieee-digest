@@ -83,6 +83,21 @@
       "title": "Secure Wireless Communication Using Distributed Coherent Transmission and Spatial Signal Decomposition",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3682185"
+    },
+    {
+      "date": "2026-06-15",
+      "doi": "10.1109/tmtt.2026.3681573",
+      "title": "An All-Digital Outphasing Transmitter IC for Ka-Band Bit-to-RF Concurrent Multibeam Digital Beamforming Array",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3681573"
+    },
+    {
+      "date": "2026-06-15",
+      "doi": "10.1109/tap.2026.3675742",
+      "title": "A 75-dBm EIRP W-Band Electronic 2-D Beam-Steering Antenna Integrated With a GaAs Array Transmitter via Quasioptical Spatial Power Combining",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3675742"
     }
-  ]
+  ],
+  "digests": []
 }
