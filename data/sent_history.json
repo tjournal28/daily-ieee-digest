@@ -97,6 +97,20 @@
       "title": "A 75-dBm EIRP W-Band Electronic 2-D Beam-Steering Antenna Integrated With a GaAs Array Transmitter via Quasioptical Spatial Power Combining",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3675742"
+    },
+    {
+      "date": "2026-06-16",
+      "doi": "10.1109/tap.2026.3676158",
+      "title": "Compact Indoor Setup for Radar Dual-Antenna Characterization Using a Symmetric Lens-Based Spherical-to-Plane Wave Transformer",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676158"
+    },
+    {
+      "date": "2026-06-16",
+      "doi": "10.1109/tap.2026.3669403",
+      "title": "A Low-Profile and Dual-Linearly Polarized Programmable Array Antenna for 2-D Wide-Angle Scanning",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3669403"
     }
   ],
   "digests": []
