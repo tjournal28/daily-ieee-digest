@@ -1,10 +1,74 @@
 import unittest
 from unittest.mock import patch
+import datetime as dt
 
 from scripts import daily_ieee_digest as digest
 
 
 class CollectCandidatesTests(unittest.TestCase):
+    def test_collect_candidates_can_limit_to_one_selected_journal(self):
+        config = {
+            "include_keywords": ["wireless"],
+            "exclude_keywords": [],
+            "journals": [
+                {
+                    "key": "TWC",
+                    "title": "IEEE Transactions on Wireless Communications",
+                    "issn": "1111-1111",
+                    "eissn": None,
+                    "metrics": {
+                        "system": "JCR-JIF",
+                        "year": 2024,
+                        "quartile": "Q1",
+                        "impact_factor": "8.9",
+                        "source": "IEEE Title List",
+                        "source_url": "https://example.com/twc",
+                    },
+                },
+                {
+                    "key": "TAP",
+                    "title": "IEEE Transactions on Antennas and Propagation",
+                    "issn": "2222-2222",
+                    "eissn": None,
+                    "metrics": {
+                        "system": "JCR-JIF",
+                        "year": 2024,
+                        "quartile": "Q1",
+                        "impact_factor": "5.8",
+                        "source": "IEEE Title List",
+                        "source_url": "https://example.com/tap",
+                    },
+                },
+            ],
+        }
+        twc_response = {
+            "message": {
+                "items": [
+                    {
+                        "title": ["Wireless Candidate"],
+                        "DOI": "10.1109/twc.2026.1000001",
+                        "container-title": ["IEEE Transactions on Wireless Communications"],
+                        "published-online": {"date-parts": [[2026, 6, 1]]},
+                        "URL": "https://example.com/twc-paper",
+                        "author": [{"given": "Ada", "family": "Lovelace"}],
+                        "abstract": "<jats:p>Wireless abstract.</jats:p>",
+                    }
+                ]
+            }
+        }
+
+        with patch.object(digest, "get_json", return_value=twc_response) as get_json:
+            candidates = digest.collect_candidates(
+                config,
+                days_back=30,
+                rows_per_journal=10,
+                selected_journal_keys={"TWC"},
+            )
+
+        self.assertEqual(1, len(candidates))
+        self.assertEqual("TWC", candidates[0].journal_key)
+        self.assertEqual(1, get_json.call_count)
+
     def test_collect_candidates_filters_non_paper_entries_and_keeps_authored_articles(self):
         config = {
             "include_keywords": ["antenna"],
@@ -161,6 +225,33 @@ class CollectCandidatesTests(unittest.TestCase):
 
 
 class MetadataHelpersTests(unittest.TestCase):
+    def test_select_daily_journal_is_stable_for_same_day(self):
+        journals = [
+            {"key": "TWC"},
+            {"key": "TAP"},
+            {"key": "TMTT"},
+        ]
+
+        first = digest.select_daily_journal(journals, dt.date(2026, 6, 23))
+        second = digest.select_daily_journal(journals, dt.date(2026, 6, 23))
+
+        self.assertEqual(first["key"], second["key"])
+        self.assertIn(first["key"], {"TWC", "TAP", "TMTT"})
+
+    def test_select_daily_journal_varies_with_date(self):
+        journals = [
+            {"key": "TWC"},
+            {"key": "TAP"},
+            {"key": "TMTT"},
+        ]
+
+        selected = {
+            digest.select_daily_journal(journals, dt.date(2026, 6, day))["key"]
+            for day in range(20, 27)
+        }
+
+        self.assertGreaterEqual(len(selected), 2)
+
     def test_extract_authors_formats_names(self):
         item = {
             "author": [

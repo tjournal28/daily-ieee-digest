@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import email.message
+import hashlib
 import html
 import json
 import os
@@ -337,11 +338,21 @@ def resolve_abstract(item: dict[str, Any], url: str, doi: str) -> str:
     return fetch_openalex_abstract(doi)
 
 
+def select_daily_journal(journals: list[dict[str, Any]], run_date: dt.date) -> dict[str, Any]:
+    if not journals:
+        raise ValueError("At least one journal is required.")
+    day_key = run_date.isoformat().encode("utf-8")
+    digest = hashlib.sha256(day_key).digest()
+    index = int.from_bytes(digest[:8], "big") % len(journals)
+    return journals[index]
+
+
 def collect_candidates(
     config: dict[str, Any],
     days_back: int,
     rows_per_journal: int,
     resolve_abstracts: bool = True,
+    selected_journal_keys: set[str] | None = None,
 ) -> list[Candidate]:
     from_date = (dt.date.today() - dt.timedelta(days=days_back)).isoformat()
     include = config.get("include_keywords", [])
@@ -349,6 +360,8 @@ def collect_candidates(
     candidates: list[Candidate] = []
 
     for journal in config["journals"]:
+        if selected_journal_keys is not None and journal["key"] not in selected_journal_keys:
+            continue
         issns = [journal.get("issn"), journal.get("eissn")]
         seen_dois: set[str] = set()
         for issn in [value for value in issns if value]:
@@ -538,11 +551,14 @@ def main() -> int:
         if skip_reason:
             print(skip_reason)
             return 0
+    journals = [journal for journal in config["journals"] if journal.get("preferred", True)]
+    selected_journal = select_daily_journal(journals, local_now(args.timezone).date())
     candidates = collect_candidates(
         config,
         args.days_back,
         args.rows_per_journal,
         resolve_abstracts=False,
+        selected_journal_keys={selected_journal["key"]},
     )
     articles = select_articles(candidates, args.limit, history_dois(history))
     articles = enrich_candidates_with_abstracts(articles)
