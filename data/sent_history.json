@@ -209,6 +209,20 @@
       "title": "A Low-RCS Circular Polarization High-Gain Antenna Based on Metasurfaces",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3666105"
+    },
+    {
+      "date": "2026-06-23",
+      "doi": "10.1109/tap.2026.3676195",
+      "title": "Impact of Rain Attenuation Variability at Millimeter Waves and SubTHz Due to DSD Fluctuations on Radio Link Design",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676195"
+    },
+    {
+      "date": "2026-06-23",
+      "doi": "10.1109/tap.2026.3671383",
+      "title": "The Analog of JK Flip-Flop Functions Through an Electromagnetic Logic Metastructure Based on Coherent Near-Perfect Absorption",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3671383"
     }
   ],
   "digests": []
