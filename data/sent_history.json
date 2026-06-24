@@ -1,4 +1,19 @@
 {
-  "sent": [ ],
+  "sent": [
+    {
+      "date": "2026-06-24",
+      "doi": "10.1109/tmtt.2026.3680086",
+      "title": "Accurate Near-Range Displacement Sensing in Single-Channel FMCW Radar via CZT-MLE Compensation for SL-IQI",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3680086"
+    },
+    {
+      "date": "2026-06-24",
+      "doi": "10.1109/tmtt.2026.3674933",
+      "title": "Characterizing Self-Rolled-Up Membrane Motion via Microwave Radar Interferometry",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3674933"
+    }
+  ],
   "digests": []
 }
