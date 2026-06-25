@@ -13,6 +13,20 @@
       "title": "Characterizing Self-Rolled-Up Membrane Motion via Microwave Radar Interferometry",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3674933"
+    },
+    {
+      "date": "2026-06-25",
+      "doi": "10.1109/tap.2026.3672763",
+      "title": "Wideband Beamforming Weights Synthesis for Overlapped Subarrayed Array Antennas Based on Alternating Optimization",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3672763"
+    },
+    {
+      "date": "2026-06-25",
+      "doi": "10.1109/tap.2026.3675330",
+      "title": "Multipolarization Array Antenna With Adjustable Beam Based on Catenary Metasurface",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3675330"
     }
   ],
   "digests": []
