@@ -27,6 +27,20 @@
       "title": "Multipolarization Array Antenna With Adjustable Beam Based on Catenary Metasurface",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3675330"
+    },
+    {
+      "date": "2026-06-26",
+      "doi": "10.1109/tap.2026.3675289",
+      "title": "A Phase-Aligned Modal Partially Reflective Surface Antenna for Stable Wideband High Gain Dual-Polarized Millimeter-Wave Applications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3675289"
+    },
+    {
+      "date": "2026-06-26",
+      "doi": "10.1109/tap.2026.3675334",
+      "title": "Cylindrical Luneburg Lens Antenna With Azimuth and Elevation Beam-Scanning Capabilities for Ka-Band Vehicular Communications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3675334"
     }
   ],
   "digests": []
