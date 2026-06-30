@@ -83,6 +83,20 @@
       "title": "RF-3DGS: Wireless Channel Modeling With Radio Radiance Field and 3D Gaussian Splatting",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3652154"
+    },
+    {
+      "date": "2026-06-30",
+      "doi": "10.1109/tap.2026.3670124",
+      "title": "A Low-Profile Dual-Band Shared-Aperture Antenna Array for Base Station Applications Based on a Radiation and Scattering Integrated Metasurface",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3670124"
+    },
+    {
+      "date": "2026-06-30",
+      "doi": "10.1109/tap.2026.3676158",
+      "title": "Compact Indoor Setup for Radar Dual-Antenna Characterization Using a Symmetric Lens-Based Spherical-to-Plane Wave Transformer",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676158"
     }
   ],
   "digests": []
