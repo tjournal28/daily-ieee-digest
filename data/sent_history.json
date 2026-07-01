@@ -97,6 +97,20 @@
       "title": "Compact Indoor Setup for Radar Dual-Antenna Characterization Using a Symmetric Lens-Based Spherical-to-Plane Wave Transformer",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3676158"
+    },
+    {
+      "date": "2026-07-01",
+      "doi": "10.1109/twc.2025.3586741",
+      "title": "Hybrid Beamforming for mmWave Integrated Sensing and Communication With Multi-Static Cooperative Localization",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3586741"
+    },
+    {
+      "date": "2026-07-01",
+      "doi": "10.1109/twc.2026.3651852",
+      "title": "Lorentzian-Constrained Holographic Beamforming Optimization in Multi-User Networks With Dynamic Metasurface Antennas",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3651852"
     }
   ],
   "digests": []
