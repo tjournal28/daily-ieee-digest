@@ -97,6 +97,20 @@
       "title": "Compact Indoor Setup for Radar Dual-Antenna Characterization Using a Symmetric Lens-Based Spherical-to-Plane Wave Transformer",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3676158"
+    },
+    {
+      "date": "2026-07-01",
+      "doi": "10.1109/tmag.2026.3683552",
+      "title": "DC-Biased Homogenized Harmonic Balance Finite Element Method",
+      "journal": "IEEE Transactions on Magnetics",
+      "url": "https://doi.org/10.1109/tmag.2026.3683552"
+    },
+    {
+      "date": "2026-07-01",
+      "doi": "10.1109/tmag.2026.3682899",
+      "title": "Influence of Magnetic Field Averaging on Modeling Magnetic Properties of Molecular Nanomagnets",
+      "journal": "IEEE Transactions on Magnetics",
+      "url": "https://doi.org/10.1109/tmag.2026.3682899"
     }
   ],
   "digests": []
