@@ -111,6 +111,20 @@
       "title": "Lorentzian-Constrained Holographic Beamforming Optimization in Multi-User Networks With Dynamic Metasurface Antennas",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3651852"
+    },
+    {
+      "date": "2026-07-02",
+      "doi": "10.1109/tap.2026.3675742",
+      "title": "A 75-dBm EIRP W-Band Electronic 2-D Beam-Steering Antenna Integrated With a GaAs Array Transmitter via Quasioptical Spatial Power Combining",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3675742"
+    },
+    {
+      "date": "2026-07-02",
+      "doi": "10.1109/tap.2026.3669403",
+      "title": "A Low-Profile and Dual-Linearly Polarized Programmable Array Antenna for 2-D Wide-Angle Scanning",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3669403"
     }
   ],
   "digests": []
