@@ -125,6 +125,20 @@
       "title": "A Low-Profile and Dual-Linearly Polarized Programmable Array Antenna for 2-D Wide-Angle Scanning",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3669403"
+    },
+    {
+      "date": "2026-07-03",
+      "doi": "10.1109/tap.2026.3671345",
+      "title": "A Low-Cost Bidirectional Dual-Circularly Polarized Beam-Scanning Reflect-Transmit Antenna Based on Multifunctional Metasurface",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3671345"
+    },
+    {
+      "date": "2026-07-03",
+      "doi": "10.1109/tap.2026.3672999",
+      "title": "Compact Dual-Band Balanced MIMO Antenna for Wi-Fi 6/6E Applications in Tablet Computers With Metal Housing",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3672999"
     }
   ],
   "digests": []
