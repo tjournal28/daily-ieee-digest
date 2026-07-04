@@ -139,6 +139,20 @@
       "title": "Compact Dual-Band Balanced MIMO Antenna for Wi-Fi 6/6E Applications in Tablet Computers With Metal Housing",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3672999"
+    },
+    {
+      "date": "2026-07-04",
+      "doi": "10.1109/twc.2025.3621695",
+      "title": "Performance Analysis and Optimization of MIMO Covert Communications With Finite-Alphabet Inputs",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3621695"
+    },
+    {
+      "date": "2026-07-04",
+      "doi": "10.1109/twc.2026.3657950",
+      "title": "Latency-Aware Resource Allocation for Integrated Communications, Computation, and Sensing in Cell-Free mMIMO Systems",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3657950"
     }
   ],
   "digests": []
