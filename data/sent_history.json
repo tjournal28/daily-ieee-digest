@@ -153,6 +153,20 @@
       "title": "Latency-Aware Resource Allocation for Integrated Communications, Computation, and Sensing in Cell-Free mMIMO Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3657950"
+    },
+    {
+      "date": "2026-07-05",
+      "doi": "10.1109/tap.2026.3668878",
+      "title": "Wideband High-Gain Polarimetric Metasurface-Integrated Antenna at Higher-Order Modes",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3668878"
+    },
+    {
+      "date": "2026-07-05",
+      "doi": "10.1109/tap.2026.3668873",
+      "title": "Amplitude-Induced Phase Modulation and Its Application to High-Gain Full-Polarization-Tunable Transmitarray Antenna",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3668873"
     }
   ],
   "digests": []
