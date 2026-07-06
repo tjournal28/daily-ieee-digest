@@ -167,6 +167,20 @@
       "title": "Amplitude-Induced Phase Modulation and Its Application to High-Gain Full-Polarization-Tunable Transmitarray Antenna",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3668873"
+    },
+    {
+      "date": "2026-07-06",
+      "doi": "10.1109/tap.2026.3676186",
+      "title": "Surface Wave and Free-Space Wave Co-Modulated Metasurface Antenna With Cross Staggered Arrangement",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676186"
+    },
+    {
+      "date": "2026-07-06",
+      "doi": "10.1109/tap.2026.3668979",
+      "title": "Performance Improvement of an HF Matching and Decoupling Network Using Physics-Informed Neural Networks",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3668979"
     }
   ],
   "digests": []
