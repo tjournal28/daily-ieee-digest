@@ -181,6 +181,20 @@
       "title": "Performance Improvement of an HF Matching and Decoupling Network Using Physics-Informed Neural Networks",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3668979"
+    },
+    {
+      "date": "2026-07-07",
+      "doi": "10.1109/tap.2026.3669608",
+      "title": "AI-Enhanced Wearable Antenna System for Wireless Capsule Endoscope Localization in Heterogeneous Environments",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3669608"
+    },
+    {
+      "date": "2026-07-07",
+      "doi": "10.1109/tap.2026.3679709",
+      "title": "Sidelobe Suppression in 4-D Antenna Arrays Using Grouped Modulation for Low Probability of Intercept Systems",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3679709"
     }
   ],
   "digests": []
