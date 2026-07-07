@@ -195,6 +195,20 @@
       "title": "Sidelobe Suppression in 4-D Antenna Arrays Using Grouped Modulation for Low Probability of Intercept Systems",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3679709"
+    },
+    {
+      "date": "2026-07-08",
+      "doi": "10.1109/twc.2025.3649123",
+      "title": "Near-Field Communications Based on Orbital Angular Momentum: Channel Modeling and Precoding Design",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3649123"
+    },
+    {
+      "date": "2026-07-08",
+      "doi": "10.1109/twc.2025.3643892",
+      "title": "Scaling Law Tradeoff Between Throughput and Sensing Distance in Large ISAC Networks",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3643892"
     }
   ],
   "digests": []
