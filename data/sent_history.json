@@ -209,6 +209,20 @@
       "title": "Scaling Law Tradeoff Between Throughput and Sensing Distance in Large ISAC Networks",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3643892"
+    },
+    {
+      "date": "2026-07-09",
+      "doi": "10.1109/twc.2025.3596456",
+      "title": "How to Proactively Monitor Untrusted Communications With Cell-Free Massive MIMO?",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3596456"
+    },
+    {
+      "date": "2026-07-09",
+      "doi": "10.1109/twc.2026.3671384",
+      "title": "Environment-Aware Channel Measurement and Modeling for Terahertz Monostatic Sensing",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3671384"
     }
   ],
   "digests": []
