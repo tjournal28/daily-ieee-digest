@@ -223,6 +223,20 @@
       "title": "Environment-Aware Channel Measurement and Modeling for Terahertz Monostatic Sensing",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3671384"
+    },
+    {
+      "date": "2026-07-10",
+      "doi": "10.1109/tap.2026.3687592",
+      "title": "Large-Frequency-Ratio Dual-Band Shared-Aperture Conformal Transmit-Reflect-Array Antenna With Independent Beam Control for UAV-Based Space–Air–Ground Emergency Communication Networks",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3687592"
+    },
+    {
+      "date": "2026-07-10",
+      "doi": "10.1109/tap.2026.3687966",
+      "title": "A Microwave Sensing System Based on Transmitarray Antennas for Detecting Low-Density Contaminants in Food Packaged Products",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3687966"
     }
   ],
   "digests": []
