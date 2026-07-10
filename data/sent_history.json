@@ -237,6 +237,20 @@
       "title": "A Microwave Sensing System Based on Transmitarray Antennas for Detecting Low-Density Contaminants in Food Packaged Products",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3687966"
+    },
+    {
+      "date": "2026-07-11",
+      "doi": "10.1109/tap.2026.3681344",
+      "title": "Wideband and Wide-Angle Scanning Linear Millimeter-Wave Phased-Array Antenna Using Miniaturized and Decoupled Magnetoelectric-Dipole Elements",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3681344"
+    },
+    {
+      "date": "2026-07-11",
+      "doi": "10.1109/tap.2026.3684987",
+      "title": "A Robust Multichannel Calibration Method for MIMO Through-the-Wall Radar Systems",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3684987"
     }
   ],
   "digests": []
