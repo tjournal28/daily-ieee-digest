@@ -265,6 +265,20 @@
       "title": "Stacked Intelligent Metasurface-Enhanced MIMO OFDM Wideband Communication Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3636393"
+    },
+    {
+      "date": "2026-07-13",
+      "doi": "10.1109/tap.2026.3683999",
+      "title": "High-Density Shared-Aperture Millimeter-Wave Array Implemented by Circularly Polarized Filtering Antenna With Hybrid Parasitic Patch",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3683999"
+    },
+    {
+      "date": "2026-07-13",
+      "doi": "10.1109/tap.2026.3686120",
+      "title": "Lightweight Deep Neural Network-Assisted Real-Time Pattern Synthesis for Large-Scale Spherical Array Antennas Based on a High-Efficiency Data Acquisition Method",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3686120"
     }
   ],
   "digests": []
