@@ -279,6 +279,20 @@
       "title": "Lightweight Deep Neural Network-Assisted Real-Time Pattern Synthesis for Large-Scale Spherical Array Antennas Based on a High-Efficiency Data Acquisition Method",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3686120"
+    },
+    {
+      "date": "2026-07-14",
+      "doi": "10.1109/twc.2026.3653567",
+      "title": "AsyMov: Integrated Sensing and Communications With Asynchronous Moving Devices",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3653567"
+    },
+    {
+      "date": "2026-07-14",
+      "doi": "10.1109/twc.2026.3679927",
+      "title": "Adaptive Source–Channel Coding for Multi-User Semantic and Data Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3679927"
     }
   ],
   "digests": []
