@@ -293,6 +293,20 @@
       "title": "Adaptive Source–Channel Coding for Multi-User Semantic and Data Communications",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3679927"
+    },
+    {
+      "date": "2026-07-15",
+      "doi": "10.1109/tmtt.2026.3693059",
+      "title": "A Multichannel Waveguide Transmitter for D-Band Multifunction Wireless Communication Systems",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3693059"
+    },
+    {
+      "date": "2026-07-15",
+      "doi": "10.1109/tmtt.2026.3695551",
+      "title": "An Advanced Kronecker Product-Based Time-Delay Neural Network for Radio Frequency Power Amplifier Digital Predistortion",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3695551"
     }
   ],
   "digests": []
