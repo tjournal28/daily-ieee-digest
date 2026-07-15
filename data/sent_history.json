@@ -307,6 +307,20 @@
       "title": "An Advanced Kronecker Product-Based Time-Delay Neural Network for Radio Frequency Power Amplifier Digital Predistortion",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3695551"
+    },
+    {
+      "date": "2026-07-16",
+      "doi": "10.1109/tmtt.2026.3687932",
+      "title": "100-Gb/s All-Electronic THz Wireless Direct Detection System Enabled by Kramers--Kronig Inspired Neural Network",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3687932"
+    },
+    {
+      "date": "2026-07-16",
+      "doi": "10.1109/tmtt.2026.3688635",
+      "title": "Design of Miniaturized Dual-Band Waveguide Filter Using Reflection-Phase-Engineered AMCs for Satellite Communications",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3688635"
     }
   ],
   "digests": []
