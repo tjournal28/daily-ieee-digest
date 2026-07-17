@@ -335,6 +335,20 @@
       "title": "Multiple Access Enabled Integrated Sensing and Communication With Imperfect SIC: Non-Orthogonal Versus Rate Splitting",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3637571"
+    },
+    {
+      "date": "2026-07-18",
+      "doi": "10.1109/tap.2026.3676226",
+      "title": "EIT-Based Modeling and Performance Analysis of Spherical Wave and Plane-Wave Diffraction Propagation in SIM-MIMO Systems",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676226"
+    },
+    {
+      "date": "2026-07-18",
+      "doi": "10.1109/tap.2026.3686107",
+      "title": "Efficient Modeling and Analysis Approach for Reflectarray Antenna With Delay Lines Based on Array Scattering Matrix Representation",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3686107"
     }
   ],
   "digests": []
