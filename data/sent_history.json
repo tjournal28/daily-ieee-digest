@@ -321,6 +321,20 @@
       "title": "Design of Miniaturized Dual-Band Waveguide Filter Using Reflection-Phase-Engineered AMCs for Satellite Communications",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3688635"
+    },
+    {
+      "date": "2026-07-17",
+      "doi": "10.1109/twc.2026.3710408",
+      "title": "Interference in Spectrum-Sharing Integrated Terrestrial and Satellite Networks: Modeling, Approximation, and Robust Transmit Beamforming",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3710408"
+    },
+    {
+      "date": "2026-07-17",
+      "doi": "10.1109/twc.2025.3637571",
+      "title": "Multiple Access Enabled Integrated Sensing and Communication With Imperfect SIC: Non-Orthogonal Versus Rate Splitting",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3637571"
     }
   ],
   "digests": []
