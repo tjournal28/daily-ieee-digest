@@ -349,6 +349,20 @@
       "title": "Efficient Modeling and Analysis Approach for Reflectarray Antenna With Delay Lines Based on Array Scattering Matrix Representation",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3686107"
+    },
+    {
+      "date": "2026-07-19",
+      "doi": "10.1109/tap.2026.3681325",
+      "title": "Experimental Multiport-Network Parameter Estimation for a Dynamic Metasurface Antenna",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3681325"
+    },
+    {
+      "date": "2026-07-19",
+      "doi": "10.1109/tap.2026.3690333",
+      "title": "3-D Printed All-Metal Huygens Antenna Array With Wide-Angle Scanning and Low Cross-Polarization Level",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690333"
     }
   ],
   "digests": []
