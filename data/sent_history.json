@@ -377,6 +377,20 @@
       "title": "Spatially Consistent RIS-Aided Multi-User Communications: Channel Modeling and Analysis",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3691752"
+    },
+    {
+      "date": "2026-07-21",
+      "doi": "10.1109/tap.2026.3683288",
+      "title": "High-Efficiency 1-D Scanning Solar Arrays With High SC Coverage Ratio Based on a Hybrid Transparent Dielectric Resonator Antenna",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3683288"
+    },
+    {
+      "date": "2026-07-21",
+      "doi": "10.1109/tap.2026.3687582",
+      "title": "Fully Metallic Slant-Polarized Linear Antenna Array With Two-Way Elliptical Curvatures",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3687582"
     }
   ],
   "digests": []
