@@ -391,6 +391,20 @@
       "title": "Fully Metallic Slant-Polarized Linear Antenna Array With Two-Way Elliptical Curvatures",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3687582"
+    },
+    {
+      "date": "2026-07-22",
+      "doi": "10.1109/twc.2025.3627095",
+      "title": "Flexible Intelligent Metasurface-Aided Wireless Communications: Architecture and Performance",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3627095"
+    },
+    {
+      "date": "2026-07-22",
+      "doi": "10.1109/twc.2025.3596953",
+      "title": "Joint Communication and Computation for Federated Learning Over Cell-Free MIMO Network",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3596953"
     }
   ],
   "digests": []
