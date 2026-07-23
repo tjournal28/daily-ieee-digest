@@ -405,6 +405,20 @@
       "title": "Joint Communication and Computation for Federated Learning Over Cell-Free MIMO Network",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3596953"
+    },
+    {
+      "date": "2026-07-23",
+      "doi": "10.1109/twc.2026.3668904",
+      "title": "Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3668904"
+    },
+    {
+      "date": "2026-07-23",
+      "doi": "10.1109/twc.2025.3621437",
+      "title": "Coordinated Beamforming for Multi-Cell ISAC Using Graph Neural Networks",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3621437"
     }
   ],
   "digests": []
