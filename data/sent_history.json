@@ -419,6 +419,20 @@
       "title": "Coordinated Beamforming for Multi-Cell ISAC Using Graph Neural Networks",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3621437"
+    },
+    {
+      "date": "2026-07-24",
+      "doi": "10.1109/tap.2026.3688972",
+      "title": "A Low-Communication FDFD Solver for Distributed Parallel Electromagnetic Simulation",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3688972"
+    },
+    {
+      "date": "2026-07-24",
+      "doi": "10.1109/tap.2026.3687593",
+      "title": "A Surface-Wave Self-Canceling Method and Its Application to Vehicle Glass Antennas",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3687593"
     }
   ],
   "digests": []
