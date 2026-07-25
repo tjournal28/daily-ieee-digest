@@ -433,6 +433,20 @@
       "title": "A Surface-Wave Self-Canceling Method and Its Application to Vehicle Glass Antennas",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3687593"
+    },
+    {
+      "date": "2026-07-25",
+      "doi": "10.1109/tmtt.2026.3691103",
+      "title": "Active Amplifier-Based Sensing Metasurface",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3691103"
+    },
+    {
+      "date": "2026-07-25",
+      "doi": "10.1109/tmtt.2026.3683435",
+      "title": "A Hybrid-Microwave Cascaded Neural Network for Distributed Filtering Cables Design",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3683435"
     }
   ],
   "digests": []
