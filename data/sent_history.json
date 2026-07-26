@@ -447,6 +447,20 @@
       "title": "A Hybrid-Microwave Cascaded Neural Network for Distributed Filtering Cables Design",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3683435"
+    },
+    {
+      "date": "2026-07-26",
+      "doi": "10.1109/twc.2026.3652312",
+      "title": "Channel Inversion Power Control-Aided Multi-User Secret and Covert UAV Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3652312"
+    },
+    {
+      "date": "2026-07-26",
+      "doi": "10.1109/twc.2025.3608676",
+      "title": "On the Performance of Vehicular Full-Duplex ISAC Systems With Cluster-Based Sensing Models",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3608676"
     }
   ],
   "digests": []
