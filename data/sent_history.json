@@ -461,6 +461,20 @@
       "title": "On the Performance of Vehicular Full-Duplex ISAC Systems With Cluster-Based Sensing Models",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3608676"
+    },
+    {
+      "date": "2026-07-27",
+      "doi": "10.1109/tap.2026.3685888",
+      "title": "Compact Near-Field Metasurface for 2-D Antenna Beam Tilting",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3685888"
+    },
+    {
+      "date": "2026-07-27",
+      "doi": "10.1109/tap.2026.3682588",
+      "title": "A Compact, High-Gain Substrate-Integrated H-Plane Fabry--Pérot Cavity Fed Long-Slot Antenna With Loaded E-Dipole for Millimeter-Wave Application",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3682588"
     }
   ],
   "digests": []
