@@ -475,6 +475,20 @@
       "title": "A Compact, High-Gain Substrate-Integrated H-Plane Fabry--Pérot Cavity Fed Long-Slot Antenna With Loaded E-Dipole for Millimeter-Wave Application",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3682588"
+    },
+    {
+      "date": "2026-07-28",
+      "doi": "10.1109/tap.2026.3673451",
+      "title": "Effective Electromagnetic Degrees of Freedom in Backscatter MIMO Systems",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3673451"
+    },
+    {
+      "date": "2026-07-28",
+      "doi": "10.1109/tap.2026.3676118",
+      "title": "Nondominated Sorting Quantum Evolutionary Algorithm and Its Application in Optimizing Multiport Network Antennas",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676118"
     }
   ],
   "digests": []
