@@ -503,6 +503,20 @@
       "title": "A Secure Affine Frequency Division Multiplexing System for Next-Generation Wireless Communications",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3693229"
+    },
+    {
+      "date": "2026-07-30",
+      "doi": "10.1109/twc.2025.3618248",
+      "title": "Cooperative Multi-Static ISAC Networks: A Unified Design Framework for Active and Passive Sensing",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3618248"
+    },
+    {
+      "date": "2026-07-30",
+      "doi": "10.1109/twc.2026.3656853",
+      "title": "Cooperative UAVs for Remote Data Collection Under Limited Communications: An Asynchronous Multiagent Learning Framework",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3656853"
     }
   ],
   "digests": []
