@@ -517,6 +517,20 @@
       "title": "Cooperative UAVs for Remote Data Collection Under Limited Communications: An Asynchronous Multiagent Learning Framework",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3656853"
+    },
+    {
+      "date": "2026-07-31",
+      "doi": "10.1109/twc.2026.3655342",
+      "title": "RIS-Based Communication Enhancement and Location Privacy Protection in UAV Networks",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3655342"
+    },
+    {
+      "date": "2026-07-31",
+      "doi": "10.1109/twc.2025.3626376",
+      "title": "Performance Optimization of RIS-Aided Cell-Free Massive MIMO Systems With DRL Approach",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3626376"
     }
   ],
   "digests": []
