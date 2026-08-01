@@ -545,6 +545,20 @@
       "title": "Orthogonal Complement-Driven Channel Estimation for Multi-RIS Wireless Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3651766"
+    },
+    {
+      "date": "2026-08-02",
+      "doi": "10.1109/tmtt.2026.3685298",
+      "title": "A Terahertz BPSK Phase Modulator Using a Differential Absorption Control Network",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3685298"
+    },
+    {
+      "date": "2026-08-02",
+      "doi": "10.1109/tmtt.2026.3684087",
+      "title": "A Novel RF Large-Signal SOI MOSFET Model With Various Hardened Structures Considering Coupled Radiation and Thermal Stresses",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3684087"
     }
   ],
   "digests": []
