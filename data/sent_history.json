@@ -531,6 +531,20 @@
       "title": "Performance Optimization of RIS-Aided Cell-Free Massive MIMO Systems With DRL Approach",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3626376"
+    },
+    {
+      "date": "2026-08-01",
+      "doi": "10.1109/twc.2026.3698666",
+      "title": "Backscatter Device-Aided Integrated Sensing and Communication: A Pareto Optimization Framework",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3698666"
+    },
+    {
+      "date": "2026-08-01",
+      "doi": "10.1109/twc.2026.3651766",
+      "title": "Orthogonal Complement-Driven Channel Estimation for Multi-RIS Wireless Systems",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3651766"
     }
   ],
   "digests": []
