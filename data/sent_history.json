@@ -559,6 +559,20 @@
       "title": "A Novel RF Large-Signal SOI MOSFET Model With Various Hardened Structures Considering Coupled Radiation and Thermal Stresses",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3684087"
+    },
+    {
+      "date": "2026-08-03",
+      "doi": "10.1109/tmtt.2026.3695110",
+      "title": "A Simple Embedded Decoupling Network Enabling Wideband Even-Mode Decoupling of Closely Stacked Patch Antenna Pairs",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3695110"
+    },
+    {
+      "date": "2026-08-03",
+      "doi": "10.1109/tmtt.2026.3693632",
+      "title": "Broadband and Wide-Angle Conformal Active Metasurface for Continuous and Dynamic RCS Modulation",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3693632"
     }
   ],
   "digests": []
