@@ -573,6 +573,20 @@
       "title": "Broadband and Wide-Angle Conformal Active Metasurface for Continuous and Dynamic RCS Modulation",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3693632"
+    },
+    {
+      "date": "2026-08-04",
+      "doi": "10.1109/tmtt.2026.3692744",
+      "title": "Algorithmic Exploration of Matching Network Topologies for Power Amplifiers",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3692744"
+    },
+    {
+      "date": "2026-08-04",
+      "doi": "10.1109/tmtt.2026.3694378",
+      "title": "Nonvolatile RF Switch Using FOM-Enhanced Resistive Memristive Device With Multifinger and Gradient-Line Configuration",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3694378"
     }
   ],
   "digests": []
