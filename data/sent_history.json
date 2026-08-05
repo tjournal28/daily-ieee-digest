@@ -587,6 +587,20 @@
       "title": "Nonvolatile RF Switch Using FOM-Enhanced Resistive Memristive Device With Multifinger and Gradient-Line Configuration",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3694378"
+    },
+    {
+      "date": "2026-08-05",
+      "doi": "10.1109/tap.2026.3683991",
+      "title": "An Experimental Characterization of Atmospheric Turbulence Effects on Millimeter-Wave Propagation in a Controlled Environment",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3683991"
+    },
+    {
+      "date": "2026-08-05",
+      "doi": "10.1109/tap.2026.3688336",
+      "title": "A Sector-Grounded Metasurface Windshield Antenna With Uniform Downtilted Beam for Wide-Azimuth V2X Coverage",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3688336"
     }
   ],
   "digests": []
