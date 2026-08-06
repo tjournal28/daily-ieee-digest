@@ -601,6 +601,20 @@
       "title": "A Sector-Grounded Metasurface Windshield Antenna With Uniform Downtilted Beam for Wide-Azimuth V2X Coverage",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3688336"
+    },
+    {
+      "date": "2026-08-06",
+      "doi": "10.1109/twc.2025.3581899",
+      "title": "Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-Aided Space-Air-Ground Integrated Networks With Few-Shot Samples",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3581899"
+    },
+    {
+      "date": "2026-08-06",
+      "doi": "10.1109/twc.2025.3643349",
+      "title": "Covert Pilot Spoofing Attack via Active Reconfigurable Intelligent Surface",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3643349"
     }
   ],
   "digests": []
