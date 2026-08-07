@@ -629,6 +629,20 @@
       "title": "Deep Learning for Beamforming in Multi-User Continuous Aperture Array Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3633569"
+    },
+    {
+      "date": "2026-08-08",
+      "doi": "10.1109/tmtt.2026.3695541",
+      "title": "A Measurement-Driven Framework of SISO FSA-FMCW Radar for High-Accuracy 2-D Localization",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3695541"
+    },
+    {
+      "date": "2026-08-08",
+      "doi": "10.1109/tmtt.2026.3695543",
+      "title": "A 100-GHz High-Gain Airborne Antenna System With Ground-to-Air Flight Demonstration Toward HAPS Feeder Links",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3695543"
     }
   ],
   "digests": []
