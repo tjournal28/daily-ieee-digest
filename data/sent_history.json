@@ -615,6 +615,20 @@
       "title": "Covert Pilot Spoofing Attack via Active Reconfigurable Intelligent Surface",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3643349"
+    },
+    {
+      "date": "2026-08-07",
+      "doi": "10.1109/twc.2025.3630755",
+      "title": "Lossy Beyond Diagonal Reconfigurable Intelligent Surfaces: Modeling and Optimization",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3630755"
+    },
+    {
+      "date": "2026-08-07",
+      "doi": "10.1109/twc.2025.3633569",
+      "title": "Deep Learning for Beamforming in Multi-User Continuous Aperture Array Systems",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3633569"
     }
   ],
   "digests": []
