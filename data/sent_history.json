@@ -643,6 +643,20 @@
       "title": "A 100-GHz High-Gain Airborne Antenna System With Ground-to-Air Flight Demonstration Toward HAPS Feeder Links",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3695543"
+    },
+    {
+      "date": "2026-08-09",
+      "doi": "10.1109/tmtt.2026.3694111",
+      "title": "Accelerating Time-Evolving Multiphysics Uncertainty Quantification of Millimeter Wave Components Using Reusable Preconditioning",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3694111"
+    },
+    {
+      "date": "2026-08-09",
+      "doi": "10.1109/tmtt.2026.3701056",
+      "title": "Highly Sensitive Microwave Pressure Sensor Based on Coupled Transmission Lines Integrating Cantilever Structure",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3701056"
     }
   ],
   "digests": []
