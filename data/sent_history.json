@@ -671,6 +671,20 @@
       "title": "Passive X-Band Microwave Pulse Compression With Over 100 Times Peak Power Gain",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3685652"
+    },
+    {
+      "date": "2026-08-11",
+      "doi": "10.1109/tmtt.2026.3688248",
+      "title": "Transient Nonlinear-Loss Responses of Ferrite Microstrip Structures to High-Power Microwave Pulses Under Perpendicular-Pumping Configuration",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3688248"
+    },
+    {
+      "date": "2026-08-11",
+      "doi": "10.1109/tmtt.2026.3691798",
+      "title": "Time--Frequency-Overlapped Signal Mix Source Separation via Image Separation for Optical Frequency Comb Undersampling Electric-Field Measurement Systems",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3691798"
     }
   ],
   "digests": []
