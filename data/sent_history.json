@@ -685,6 +685,20 @@
       "title": "Time--Frequency-Overlapped Signal Mix Source Separation via Image Separation for Optical Frequency Comb Undersampling Electric-Field Measurement Systems",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3691798"
+    },
+    {
+      "date": "2026-08-12",
+      "doi": "10.1109/tap.2026.3690675",
+      "title": "Integrating Direction-of-Arrival Estimation Function With Reconfigurable Intelligent Surfaces for Self-Adaptive Wireless Networks",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690675"
+    },
+    {
+      "date": "2026-08-12",
+      "doi": "10.1109/tap.2026.3696058",
+      "title": "Explainable Causal Forecasting Model for Maximum Usable Frequency in HF Wireless Communications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3696058"
     }
   ],
   "digests": []
