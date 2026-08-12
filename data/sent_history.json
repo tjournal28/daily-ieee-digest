@@ -699,6 +699,20 @@
       "title": "Explainable Causal Forecasting Model for Maximum Usable Frequency in HF Wireless Communications",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3696058"
+    },
+    {
+      "date": "2026-08-13",
+      "doi": "10.1109/tmtt.2026.3694800",
+      "title": "Resonant Tunneling Diodes as Tunable Low-Noise mmWave Reflection Amplifiers: Experimental Investigations Using InGaAs RTDs",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3694800"
+    },
+    {
+      "date": "2026-08-13",
+      "doi": "10.1109/tmtt.2026.3689630",
+      "title": "Characteristic Mode Analysis of Large-Scale Finite Array Structures Above a Half-Space",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3689630"
     }
   ],
   "digests": []
