@@ -713,6 +713,20 @@
       "title": "Characteristic Mode Analysis of Large-Scale Finite Array Structures Above a Half-Space",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3689630"
+    },
+    {
+      "date": "2026-08-14",
+      "doi": "10.1109/twc.2025.3602146",
+      "title": "SemHARQ: Semantic-Aware Hybrid Automatic Repeat Request for Multi-Task Semantic Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3602146"
+    },
+    {
+      "date": "2026-08-14",
+      "doi": "10.1109/twc.2026.3720256",
+      "title": "Statistical Channel Fingerprint Construction for Massive MIMO: A Unified Tensor Learning Framework",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3720256"
     }
   ],
   "digests": []
