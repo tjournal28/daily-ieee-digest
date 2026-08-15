@@ -727,6 +727,20 @@
       "title": "Statistical Channel Fingerprint Construction for Massive MIMO: A Unified Tensor Learning Framework",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3720256"
+    },
+    {
+      "date": "2026-08-15",
+      "doi": "10.1109/tap.2026.3690119",
+      "title": "A Compact Polarization and Pattern Diversity Antenna With Enhanced Azimuthal Gain for Vehicular Communications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690119"
+    },
+    {
+      "date": "2026-08-15",
+      "doi": "10.1109/tap.2026.3693746",
+      "title": "Broad and Spectrally Efficient Beamforming for Unipolarized Reconfigurable Intelligent Surfaces",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3693746"
     }
   ],
   "digests": []
