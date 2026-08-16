@@ -741,6 +741,20 @@
       "title": "Broad and Spectrally Efficient Beamforming for Unipolarized Reconfigurable Intelligent Surfaces",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3693746"
+    },
+    {
+      "date": "2026-08-16",
+      "doi": "10.1109/tmtt.2026.3688016",
+      "title": "D-Band Broadband Quadrature U2B Power Divider Network With LLM-Based Adaptive Optimization",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3688016"
+    },
+    {
+      "date": "2026-08-16",
+      "doi": "10.1109/tmtt.2026.3685639",
+      "title": "An 18--50-GHz Phased-Array CMOS Transceiver",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3685639"
     }
   ],
   "digests": []
