@@ -755,6 +755,20 @@
       "title": "An 18--50-GHz Phased-Array CMOS Transceiver",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3685639"
+    },
+    {
+      "date": "2026-08-17",
+      "doi": "10.1109/tap.2026.3691135",
+      "title": "Sparse Antenna Array With Metagratings for Wide-Angle Beamforming and Grating-Lobe Suppression",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3691135"
+    },
+    {
+      "date": "2026-08-17",
+      "doi": "10.1109/tap.2026.3692683",
+      "title": "Beamforming Reflective Metasurfaces Supporting Polarization Control",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3692683"
     }
   ],
   "digests": []
