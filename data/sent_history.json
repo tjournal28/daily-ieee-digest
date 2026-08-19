@@ -783,6 +783,20 @@
       "title": "Joint Optimization of Hybrid Beamforming and Decoding Order for Rate-Splitting Multiple Access-Based Uplink mmWave Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3681331"
+    },
+    {
+      "date": "2026-08-19",
+      "doi": "10.1109/twc.2026.3723693",
+      "title": "Movable-Signals and Movable Antennas for Multiuser Covert Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3723693"
+    },
+    {
+      "date": "2026-08-19",
+      "doi": "10.1109/twc.2026.3687670",
+      "title": "Air-to-Ground Covert Communication With Location and Interference Uncertainty",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3687670"
     }
   ],
   "digests": []
