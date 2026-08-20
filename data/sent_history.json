@@ -797,6 +797,20 @@
       "title": "Air-to-Ground Covert Communication With Location and Interference Uncertainty",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3687670"
+    },
+    {
+      "date": "2026-08-20",
+      "doi": "10.1109/twc.2026.3686424",
+      "title": "Near-Field Communication With Movable Antennas: An Electrostatic Equilibrium Perspective",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3686424"
+    },
+    {
+      "date": "2026-08-20",
+      "doi": "10.1109/twc.2026.3688858",
+      "title": "A Framework for Energy-Efficient Hybrid Transceiver Design in Multi-Hop Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3688858"
     }
   ],
   "digests": []
