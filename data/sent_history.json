@@ -811,6 +811,20 @@
       "title": "A Framework for Energy-Efficient Hybrid Transceiver Design in Multi-Hop Communications",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3688858"
+    },
+    {
+      "date": "2026-08-21",
+      "doi": "10.1109/tmtt.2026.3706906",
+      "title": "Hybrid Finite Element Physics-Informed Neural Network for 3-D Electromagnetic Simulation of Microwave Devices",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3706906"
+    },
+    {
+      "date": "2026-08-21",
+      "doi": "10.1109/tmtt.2026.3696623",
+      "title": "Filtering Multibeam Antenna Arrays Based on Substrate Integrated Waveguide Filtering Crossovers: A Proof of Concept",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3696623"
     }
   ],
   "digests": []
