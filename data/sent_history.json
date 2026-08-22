@@ -825,6 +825,20 @@
       "title": "Filtering Multibeam Antenna Arrays Based on Substrate Integrated Waveguide Filtering Crossovers: A Proof of Concept",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3696623"
+    },
+    {
+      "date": "2026-08-22",
+      "doi": "10.1109/twc.2026.3654579",
+      "title": "Fast Vortex Beam Alignment for OAM Mode Multiplexing in LOS MIMO Networks",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3654579"
+    },
+    {
+      "date": "2026-08-22",
+      "doi": "10.1109/twc.2026.3704733",
+      "title": "Deep Learning-Based Joint Space–Time–Frequency Domain Channel Prediction for Cell-Free Massive MIMO Systems",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3704733"
     }
   ],
   "digests": []
