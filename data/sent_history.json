@@ -839,6 +839,20 @@
       "title": "Deep Learning-Based Joint Space–Time–Frequency Domain Channel Prediction for Cell-Free Massive MIMO Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3704733"
+    },
+    {
+      "date": "2026-08-23",
+      "doi": "10.1109/twc.2026.3707705",
+      "title": "ISAC Enabled Anti-UAV: Joint Beamforming and Trajectory Design for Multi-UAVs",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3707705"
+    },
+    {
+      "date": "2026-08-23",
+      "doi": "10.1109/twc.2026.3713038",
+      "title": "Topology-Aware Embedding Network for Label-Free Radio Map Construction",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3713038"
     }
   ],
   "digests": []
