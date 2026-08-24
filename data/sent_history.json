@@ -853,6 +853,20 @@
       "title": "Topology-Aware Embedding Network for Label-Free Radio Map Construction",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3713038"
+    },
+    {
+      "date": "2026-08-24",
+      "doi": "10.1109/tap.2026.3691165",
+      "title": "A 3-D-Printed GRIN Lens Array for Hybrid Beamforming: Design and Experimental Validation",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3691165"
+    },
+    {
+      "date": "2026-08-24",
+      "doi": "10.1109/tap.2026.3691953",
+      "title": "Collaborative Beamforming With Excitation and Position Diversity for Broadband and High-Resolution Distributed Phased Arrays",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3691953"
     }
   ],
   "digests": []
