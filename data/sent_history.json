@@ -867,6 +867,20 @@
       "title": "Collaborative Beamforming With Excitation and Position Diversity for Broadband and High-Resolution Distributed Phased Arrays",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3691953"
+    },
+    {
+      "date": "2026-08-25",
+      "doi": "10.1109/tmtt.2026.3700484",
+      "title": "JSAF: Joint Structured Priors and Autofocus Framework for Near-Field Compressive Synthetic Aperture Radar Microwave Imaging",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3700484"
+    },
+    {
+      "date": "2026-08-25",
+      "doi": "10.1109/tmtt.2026.3702882",
+      "title": "A Multi-Channel Focal-Plane Array Passive Imaging System Operating at 220-GHz",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3702882"
     }
   ],
   "digests": []
