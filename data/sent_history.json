@@ -881,6 +881,20 @@
       "title": "A Multi-Channel Focal-Plane Array Passive Imaging System Operating at 220-GHz",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3702882"
+    },
+    {
+      "date": "2026-08-26",
+      "doi": "10.1109/tmtt.2026.3701701",
+      "title": "A Compact E-Band Four-Channel Phased-Array Transmitter With Nested-Coupler-Based Phase Shifter",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3701701"
+    },
+    {
+      "date": "2026-08-26",
+      "doi": "10.1109/tmtt.2026.3703958",
+      "title": "Retrodirective RFID Sensing With CMOS-Linearized Readout for Dielectric Characterization",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3703958"
     }
   ],
   "digests": []
