@@ -895,6 +895,20 @@
       "title": "Retrodirective RFID Sensing With CMOS-Linearized Readout for Dielectric Characterization",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3703958"
+    },
+    {
+      "date": "2026-08-27",
+      "doi": "10.1109/tmtt.2026.3700165",
+      "title": "Autoencoder-Based Neural Network-Transfer Function Parametric Modeling With Autoencoder Feature Extraction for Microwave Filters",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3700165"
+    },
+    {
+      "date": "2026-08-27",
+      "doi": "10.1109/tmtt.2026.3708101",
+      "title": "Ultraefficient and Port-Selective Wireless Power Transfer in Complex Wave Environment via Coherent Perfect Absorption",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3708101"
     }
   ],
   "digests": []
