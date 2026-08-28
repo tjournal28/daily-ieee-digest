@@ -909,6 +909,20 @@
       "title": "Ultraefficient and Port-Selective Wireless Power Transfer in Complex Wave Environment via Coherent Perfect Absorption",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3708101"
+    },
+    {
+      "date": "2026-08-28",
+      "doi": "10.1109/tmtt.2026.3703039",
+      "title": "Demonstration of Phase Locking for a Scalable Cascaded Magnetron Array via Single-Channel Injection",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3703039"
+    },
+    {
+      "date": "2026-08-28",
+      "doi": "10.1109/tmtt.2026.3709089",
+      "title": "A 2-bit Phased Array Antenna Featuring Co-Design of Compactness, Broadband, and ±45° Dual Polarization",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3709089"
     }
   ],
   "digests": []
