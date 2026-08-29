@@ -937,6 +937,20 @@
       "title": "Photonics-Aided THz Integrated Sensing and Communication System Based on a Time-Frequency Efficient SF-LFM-OFDM Waveform",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3696308"
+    },
+    {
+      "date": "2026-08-30",
+      "doi": "10.1109/tmtt.2026.3660068",
+      "title": "Broadband Doherty Power Amplifier Design Using an Extended Two-Port\n                    <i>S</i>\n                    -Parameter Solution Set With Irregular Matching Networks",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3660068"
+    },
+    {
+      "date": "2026-08-30",
+      "doi": "10.1109/tmtt.2026.3706366",
+      "title": "Metasurface-Based Reconfigurable Radome for HRRPs Modulation",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3706366"
     }
   ],
   "digests": []
