@@ -923,6 +923,20 @@
       "title": "A 2-bit Phased Array Antenna Featuring Co-Design of Compactness, Broadband, and ±45° Dual Polarization",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3709089"
+    },
+    {
+      "date": "2026-08-29",
+      "doi": "10.1109/tmtt.2026.3698090",
+      "title": "Crosstalk-Mapping Digital Predistortion for Fully Connected Hybrid Beamforming MIMO Transmitters Using Piecewise Approximate Vector Synthesis",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3698090"
+    },
+    {
+      "date": "2026-08-29",
+      "doi": "10.1109/tmtt.2026.3696308",
+      "title": "Photonics-Aided THz Integrated Sensing and Communication System Based on a Time-Frequency Efficient SF-LFM-OFDM Waveform",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3696308"
     }
   ],
   "digests": []
