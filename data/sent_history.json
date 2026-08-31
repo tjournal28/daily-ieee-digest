@@ -965,6 +965,20 @@
       "title": "A D-Band Planar 2-D Multibeam Modulated Metasurface Antenna Based on Gaussian Nonuniform Modulation",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3691930"
+    },
+    {
+      "date": "2026-09-01",
+      "doi": "10.1109/tmtt.2026.3704576",
+      "title": "A 64-dB SNDR 2 GS/s 12-bit Interleaved Pipelined-SAR ADC Employing Error-Locked-Loop Background Calibrations and In Situ Metastability-Caused Error Correction for Direct-RF Sampling",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3704576"
+    },
+    {
+      "date": "2026-09-01",
+      "doi": "10.1109/tmtt.2025.3650121",
+      "title": "Design and Analysis of Three-Way Doherty Power Amplifier With Self-Adaptive Bias Network",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2025.3650121"
     }
   ],
   "digests": []
