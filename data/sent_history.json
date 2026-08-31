@@ -951,6 +951,20 @@
       "title": "Metasurface-Based Reconfigurable Radome for HRRPs Modulation",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3706366"
+    },
+    {
+      "date": "2026-08-31",
+      "doi": "10.1109/tap.2026.3694107",
+      "title": "All-Silicon Planar Parabolic Reflector Antenna for Terahertz Applications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3694107"
+    },
+    {
+      "date": "2026-08-31",
+      "doi": "10.1109/tap.2026.3691930",
+      "title": "A D-Band Planar 2-D Multibeam Modulated Metasurface Antenna Based on Gaussian Nonuniform Modulation",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3691930"
     }
   ],
   "digests": []
