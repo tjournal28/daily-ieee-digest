@@ -979,6 +979,20 @@
       "title": "Design and Analysis of Three-Way Doherty Power Amplifier With Self-Adaptive Bias Network",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2025.3650121"
+    },
+    {
+      "date": "2026-09-02",
+      "doi": "10.1109/tmtt.2026.3698428",
+      "title": "A Complex-Frequency Perspective on Eigenmode and Driven-Response Analyses in Open Electromagnetic Resonators",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3698428"
+    },
+    {
+      "date": "2026-09-02",
+      "doi": "10.1109/tmtt.2026.3697406",
+      "title": "Domain Decomposition-Based DGTD Method With Automated Implicit--Explicit Classification for Multiscale Electromagnetic Modeling",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3697406"
     }
   ],
   "digests": []
