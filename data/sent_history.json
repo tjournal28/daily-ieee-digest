@@ -993,6 +993,20 @@
       "title": "Domain Decomposition-Based DGTD Method With Automated Implicit--Explicit Classification for Multiscale Electromagnetic Modeling",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3697406"
+    },
+    {
+      "date": "2026-09-03",
+      "doi": "10.1109/tap.2026.3693361",
+      "title": "Co-Design of Low-Profile Leaky Wave-Fed Transmit-Array Antennas Using the Generalized Risley Prism Concept for Sidelobe Reduction",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3693361"
+    },
+    {
+      "date": "2026-09-03",
+      "doi": "10.1109/tap.2026.3692677",
+      "title": "Near-Field Wideband Frequency-Invariant FIR Filter Beamforming With Shallow Residual Convolutional Neural Network",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3692677"
     }
   ],
   "digests": []
