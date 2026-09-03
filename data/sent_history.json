@@ -1007,6 +1007,20 @@
       "title": "Near-Field Wideband Frequency-Invariant FIR Filter Beamforming With Shallow Residual Convolutional Neural Network",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3692677"
+    },
+    {
+      "date": "2026-09-04",
+      "doi": "10.1109/twc.2026.3709091",
+      "title": "Accurate 4-D MIMO-OFDM ISAC Detection in V2X With Co-Channel Interference and Sensing Ghosts",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3709091"
+    },
+    {
+      "date": "2026-09-04",
+      "doi": "10.1109/twc.2025.3597056",
+      "title": "Capacity Analysis on OAM-Based Wireless Communications: An Electromagnetic Information Theory Perspective",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3597056"
     }
   ],
   "digests": []
