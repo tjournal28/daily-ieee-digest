@@ -1021,6 +1021,20 @@
       "title": "Capacity Analysis on OAM-Based Wireless Communications: An Electromagnetic Information Theory Perspective",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3597056"
+    },
+    {
+      "date": "2026-09-05",
+      "doi": "10.1109/tap.2026.3690196",
+      "title": "A Deep Learning-Based Integrated Framework for Fault Diagnosis and Beam Recovery of Phased Array Antennas",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690196"
+    },
+    {
+      "date": "2026-09-05",
+      "doi": "10.1109/tap.2026.3686052",
+      "title": "Mutual Coupling of an Arbitrarily Oriented VLF Receiving Linear Antenna Array in a Cold Magnetoplasma",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3686052"
     }
   ],
   "digests": []
