@@ -1035,6 +1035,20 @@
       "title": "Mutual Coupling of an Arbitrarily Oriented VLF Receiving Linear Antenna Array in a Cold Magnetoplasma",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3686052"
+    },
+    {
+      "date": "2026-09-06",
+      "doi": "10.1109/tap.2026.3696867",
+      "title": "A Magneto-Electric Dipole Antenna Array With Reconfigurable Element Pattern for Angular Filtering",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3696867"
+    },
+    {
+      "date": "2026-09-06",
+      "doi": "10.1109/tap.2026.3691606",
+      "title": "Compact Doherty Power Amplifier–Circularly Polarized Antenna Integration for Phased Arrays",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3691606"
     }
   ],
   "digests": []
