@@ -1063,6 +1063,20 @@
       "title": "Low-Rate Cascaded Parallel Digital Predistortion for Sub-6-GHz 400-MHz Signal Transmission",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3710278"
+    },
+    {
+      "date": "2026-09-08",
+      "doi": "10.1109/tap.2026.3686503",
+      "title": "RTU-MUSIC: Unrolling the Multiple Signal Classification for Solving Electromagnetic Inverse Scattering Imaging in Nondestructive Testing of Trees",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3686503"
+    },
+    {
+      "date": "2026-09-08",
+      "doi": "10.1109/tap.2025.3645358",
+      "title": "Ad-SACNet: Spatial Attention Compression Network for Atmospheric Duct Inversion With Radar Sea Clutter Data",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2025.3645358"
     }
   ],
   "digests": []
