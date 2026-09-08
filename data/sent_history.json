@@ -1077,6 +1077,20 @@
       "title": "Ad-SACNet: Spatial Attention Compression Network for Atmospheric Duct Inversion With Radar Sea Clutter Data",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2025.3645358"
+    },
+    {
+      "date": "2026-09-09",
+      "doi": "10.1109/twc.2025.3647104",
+      "title": "Joint Design of Optical Phased Array Beamforming and OFDM Waveform in Optical Wireless Integrated Sensing and Communication",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3647104"
+    },
+    {
+      "date": "2026-09-09",
+      "doi": "10.1109/twc.2025.3626388",
+      "title": "Multiuser Communications Aided by Cross-Linked Movable Antenna Array: Architecture and Optimization",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3626388"
     }
   ],
   "digests": []
