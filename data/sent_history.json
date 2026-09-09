@@ -1091,6 +1091,20 @@
       "title": "Multiuser Communications Aided by Cross-Linked Movable Antenna Array: Architecture and Optimization",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3626388"
+    },
+    {
+      "date": "2026-09-10",
+      "doi": "10.1109/twc.2026.3712016",
+      "title": "Mitigating Mixed-Field Interference in Near-Field and Far-Field Communications: An Antenna Selection Approach",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3712016"
+    },
+    {
+      "date": "2026-09-10",
+      "doi": "10.1109/twc.2025.3625199",
+      "title": "Resilient Vehicular Communications Under Imperfect Channel State Information",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3625199"
     }
   ],
   "digests": []
