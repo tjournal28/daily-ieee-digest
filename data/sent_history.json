@@ -1105,6 +1105,20 @@
       "title": "Resilient Vehicular Communications Under Imperfect Channel State Information",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2025.3625199"
+    },
+    {
+      "date": "2026-09-11",
+      "doi": "10.1109/tap.2026.3697296",
+      "title": "A 2-D Circularly Polarized Electronically-Controlled Beam-Scanning Leaky Wave Antenna for Millimeter-Wave Applications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3697296"
+    },
+    {
+      "date": "2026-09-11",
+      "doi": "10.1109/tap.2026.3690195",
+      "title": "Monolithically Integrated Inkjet-Printed Magneto-Electric Dipole Antennas and Arrays",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690195"
     }
   ],
   "digests": []
