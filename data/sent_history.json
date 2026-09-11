@@ -1119,6 +1119,20 @@
       "title": "Monolithically Integrated Inkjet-Printed Magneto-Electric Dipole Antennas and Arrays",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3690195"
+    },
+    {
+      "date": "2026-09-12",
+      "doi": "10.1109/tmtt.2026.3718769",
+      "title": "A Miniaturized Neural Recording Microprobe Using an On-Chip Antenna for RF Uplink Communication",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3718769"
+    },
+    {
+      "date": "2026-09-12",
+      "doi": "10.1109/tmtt.2026.3717968",
+      "title": "Binary Phase Modulation FMCW Radar for High-Performance Multiperson Cardiac-Induced Thoracic Micro-Motion Sensing",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3717968"
     }
   ],
   "digests": []
