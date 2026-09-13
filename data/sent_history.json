@@ -1147,6 +1147,20 @@
       "title": "Error Compensation for RIS-Aided Wireless Communications: Modeling and Experimental Validation",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3705877"
+    },
+    {
+      "date": "2026-09-14",
+      "doi": "10.1109/tmtt.2026.3709770",
+      "title": "An Efficient Subaperture Scaling Algorithm With a Deep-Unfolding Lightweight Network for 2-D Boundary MIMO Millimeter-Wave Imaging",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3709770"
+    },
+    {
+      "date": "2026-09-14",
+      "doi": "10.1109/tmtt.2026.3712697",
+      "title": "Characterization Technique for Effective Radar Cross Section in CW-Doppler Physiological Sensing",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3712697"
     }
   ],
   "digests": []
