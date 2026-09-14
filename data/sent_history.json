@@ -1161,6 +1161,20 @@
       "title": "Characterization Technique for Effective Radar Cross Section in CW-Doppler Physiological Sensing",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3712697"
+    },
+    {
+      "date": "2026-09-15",
+      "doi": "10.1109/tap.2026.3690850",
+      "title": "QR-Recursive Compression of Volume Integral Equations for Electromagnetic Scattering by Large Metasurfaces",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3690850"
+    },
+    {
+      "date": "2026-09-15",
+      "doi": "10.1109/tap.2026.3666771",
+      "title": "An Unconditionally Stable Stochastic CDI-FDTD Method for Electromagnetic Wave Propagation in Media With Uncertain Material Properties",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3666771"
     }
   ],
   "digests": []
