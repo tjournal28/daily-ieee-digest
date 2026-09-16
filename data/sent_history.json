@@ -1175,6 +1175,20 @@
       "title": "An Unconditionally Stable Stochastic CDI-FDTD Method for Electromagnetic Wave Propagation in Media With Uncertain Material Properties",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3666771"
+    },
+    {
+      "date": "2026-09-16",
+      "doi": "10.1109/twc.2026.3713327",
+      "title": "6-D Movable Antenna-Enabled Wideband THz Communications",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2026.3713327"
+    },
+    {
+      "date": "2026-09-16",
+      "doi": "10.1109/twc.2025.3589655",
+      "title": "Exploring Passive Eves With Self-Refine Sensing: A Novel ISAC-Aided Secure Communication System With STAR-RIS",
+      "journal": "IEEE Transactions on Wireless Communications",
+      "url": "https://doi.org/10.1109/twc.2025.3589655"
     }
   ],
   "digests": []
